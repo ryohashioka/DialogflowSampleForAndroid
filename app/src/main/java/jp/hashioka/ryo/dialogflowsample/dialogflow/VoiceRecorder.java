@@ -29,6 +29,8 @@ import androidx.annotation.NonNull;
  * <p>The recorded audio format is always {@link AudioFormat#ENCODING_PCM_16BIT} and
  * {@link AudioFormat#CHANNEL_IN_MONO}. This class will automatically pick the right sample rate
  * for the device. Use {@link #getSampleRate()} to get the selected value.</p>
+ *
+ * see https://github.com/GoogleCloudPlatform/android-docs-samples/tree/master/speech/Speech
  */
 public class VoiceRecorder {
 
