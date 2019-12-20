@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DialogflowSample</string>
+    <string name="dialog__audio_permission_required">音声認識機能を利用するには、音声録音権限を許可する必要があります。</string>
+</resources>
